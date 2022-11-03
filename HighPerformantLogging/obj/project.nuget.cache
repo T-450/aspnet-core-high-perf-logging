@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ejp17rDMP54s05tDH82bnTQZttcFLxa09lU/wJzjnmr861ZdHaeVszbjxw01nL51sRTuAkNcfxIo72DEyFk9JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edward\\source\\personal-projects\\HighPerformantLogging\\HighPerformantLogging\\HighPerformantLogging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edward\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\edward\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\edward\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\edward\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\edward\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\edward\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
