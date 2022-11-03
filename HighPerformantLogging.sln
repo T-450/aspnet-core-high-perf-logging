@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighPerformantLogging", "HighPerformantLogging\HighPerformantLogging.csproj", "{A309256A-EA19-4357-871D-1933E2A5803B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{4D983C1C-8F71-4B2D-A42B-B9BDFAF3A26E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A309256A-EA19-4357-871D-1933E2A5803B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A309256A-EA19-4357-871D-1933E2A5803B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A309256A-EA19-4357-871D-1933E2A5803B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D983C1C-8F71-4B2D-A42B-B9BDFAF3A26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D983C1C-8F71-4B2D-A42B-B9BDFAF3A26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D983C1C-8F71-4B2D-A42B-B9BDFAF3A26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D983C1C-8F71-4B2D-A42B-B9BDFAF3A26E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
